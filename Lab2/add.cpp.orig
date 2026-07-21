@@ -1,7 +1,11 @@
 #include<iostream>
 using namespace std;
 //Hey Hello
+<<<<<<< HEAD
 //From dhans Branch Bye
+=======
+//From dhans Branch Hey
+>>>>>>> dhans
 void main(){
     int a = 5;
     int b = 10;
